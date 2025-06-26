@@ -1,7 +1,7 @@
-name: "Sappey2024"                                # CHANGE HERE 
+name: "Sappey2040"                                # CHANGE HERE 
 output_dir: "."
 navbar:
-  title: "Sappey2024"                             # CHANGE HERE 
+  title: "Sappey2040"                             # CHANGE HERE 
   type: inverse
   left:
     - text: "Bienvenue"
